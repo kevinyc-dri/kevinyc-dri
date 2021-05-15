@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently a Software Engineering student at Boca Code
-- 🔭 I’m currently working on Resources.co an Open-source web app interacting with Data and APIs
+- 🔭 Currently working on Resources.co an Open-source web app interacting with Data and APIs
+- 🕸 https://www.kevinchoi.com/ check out my portfolio!
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
