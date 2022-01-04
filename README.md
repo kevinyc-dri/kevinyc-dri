@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m a Software Engineer in Miami
-- 🔭 Currently working on Resources.co an Open-source web app interacting with Data and APIs
+- 🌱 Software Engineer
+- 🔭 Working on Resources.co an Open-source web app interacting with Data and APIs
 - 🕸 https://www.kevinchoi.com/ check out my portfolio!
 
 
